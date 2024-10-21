@@ -1,2 +1,4 @@
 This is sample file to push into cloud.
 Pull from cloud
+1more line added on 21/10
+connected in Visual Studio
